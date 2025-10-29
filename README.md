@@ -1,2 +1,3 @@
 # bank-zbozowy-nvm
-https://github.com/MaciejRadzisz/bank-zbozowy-nvm/tree/main/.github/workflows
+![example workflow](https://github.com/MaciejRadzisz/bank-zbozowy-nvm/actions/workflows/ci.yml/badge.svg)
+
